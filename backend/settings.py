@@ -56,7 +56,7 @@ INSTALLED_APPS = [
     'coindetail',
     'exchange',
     'marketcap',
-    'staking'
+    
     
 ]
 
