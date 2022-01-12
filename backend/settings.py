@@ -50,6 +50,12 @@ INSTALLED_APPS = [
     # pip install django-ckeditor
     'ckeditor',
     'ckeditor_uploader',
+    'staking',
+    'api',
+    'backend',
+    'coindetail',
+    'exchange',
+    'marketcap',
     'staking'
     
 ]
