@@ -25,7 +25,7 @@ SECRET_KEY = '!1u94&8g1p-83oceq__r-yw4aaz%7ufvn_-6@b8hmir^-mn@f3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['http://coinaskinfo.pythonanywhere.com/']
 
 
 # Application definition
